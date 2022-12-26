@@ -8,4 +8,4 @@ _Created at:10:40PM, Monday 26 December, 2022_
 
 ## Things Learned So Far...
 
-- [ ] Getting Started.
+- [x] Getting Started.
